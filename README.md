@@ -3,8 +3,8 @@
 <head>
 <style>
 body {
-    background: lightgreen;
-    font-family: Verdana;
+    background: lightblue;
+    font-family: Times New Roman;
 }  
 #content {
     background: lightyellow;
@@ -31,19 +31,19 @@ h3 {
 </head>    
 <body>
     <div id="content">
-        <h1>Ethan McGee</h1>
+        <h1>Gabriela Gonzalez</h1>
         <h2>Freshman in Greenville, South Carolina</h2>
         
-         <p>I am a freshman at Bob Jones University studying computer science with a minor in mathematics. I work for the Computer Science department as a lab monitor.</p>
+         <p>I am a freshman at Bob Jones University majoring in Political Science with the hopes of one day becoming a lawyer.</p>
          <p>
-            I enjoy participating in community outreach events, and I am active in my local church: Southside Baptist Church of Gaffney, SC.  I teach Sunday School for the College &amp; Career group and I run the Sound / Video Projection System during services.  I also drive the church bus for weekend activities.
+           I participate in various activities whilen in college. I am a starter on the Bruins soccer team as well as an active participant in a variety of society sports. I also am involved in Morningside's Spanish ministry, Iglesia Bautista Nuevo Amanecer.
          </p> 
          <p>
-            I also enjoy running / hiking as well as a good book
+           I also enjoy singing, painting, and any phyiscal activities like sports or hiking.
          </p>
         
         <h3>EDUCATION</h3>
-        Computer Science<br>
+        Politcal Science<br>
         Bob Jones University
     </div>
            
