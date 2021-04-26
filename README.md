@@ -36,7 +36,7 @@ h3 {
         
          <p>I am a freshman at Bob Jones University majoring in Political Science with the hopes of one day becoming a lawyer.</p>
          <p>
-           I participate in various activities whilen in college. I am a starter on the Bruins soccer team as well as an active participant in a variety of society sports. I also am involved in Morningside's Spanish ministry, Iglesia Bautista Nuevo Amanecer.
+           I participate in various activities while in college. I am a starter on the Bruins soccer team as well as an active participant in a variety of society sports. I also am involved in Morningside's Spanish ministry, Iglesia Bautista Nuevo Amanecer.
          </p> 
          <p>
            I also enjoy singing, painting, and any phyiscal activities like sports or hiking.
